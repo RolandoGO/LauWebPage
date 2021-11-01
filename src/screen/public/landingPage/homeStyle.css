@@ -1,0 +1,16 @@
+.home {
+  width: 90%;
+  height: 400px;
+  margin: auto;
+}
+
+.carouselItem {
+  height: 400px;
+  width: 400px;
+}
+
+.myImg {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+}
