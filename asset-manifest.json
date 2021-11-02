@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/LauWebPage/static/css/main.021bf410.chunk.css",
-    "main.js": "/LauWebPage/static/js/main.83928de5.chunk.js",
-    "main.js.map": "/LauWebPage/static/js/main.83928de5.chunk.js.map",
+    "main.js": "/LauWebPage/static/js/main.b353a752.chunk.js",
+    "main.js.map": "/LauWebPage/static/js/main.b353a752.chunk.js.map",
     "runtime-main.js": "/LauWebPage/static/js/runtime-main.43dc9943.js",
     "runtime-main.js.map": "/LauWebPage/static/js/runtime-main.43dc9943.js.map",
     "static/css/2.d8cb5cde.chunk.css": "/LauWebPage/static/css/2.d8cb5cde.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.d8cb5cde.chunk.css",
     "static/js/2.31fdcd40.chunk.js",
     "static/css/main.021bf410.chunk.css",
-    "static/js/main.83928de5.chunk.js"
+    "static/js/main.b353a752.chunk.js"
   ]
 }
