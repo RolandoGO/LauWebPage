@@ -19,15 +19,15 @@ function App() {
       <main className="myContainer">
         <PicturesContext>
         <Switch>
-            <Route exact path="LauWebPage/home" component={Home}/>
-            <Route exact  path="LauWebPage/contact" component={Contact}/>
-            <Route exact path="LauWebPage/pictures" component={Pictures}/>
+            <Route exact path="/home" component={Home}/>
+            <Route exact  path="/contact" component={Contact}/>
+            <Route exact path="/pictures" component={Pictures}/>
 
-            <LoginProtectedRoute path ="LauWebPage/adminLogin" component={LogIn}/>
+            <LoginProtectedRoute path ="/adminLogin" component={LogIn}/>
             
 
-            <AdminProtectRoute path="LauWebPage/admin" component={Admin}/>
-            <Redirect  to="LauWebPage/home"/>
+            <AdminProtectRoute path="/admin" component={Admin}/>
+            <Redirect  to="/home"/>
 
           </Switch>
         </PicturesContext>

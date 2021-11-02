@@ -69,7 +69,7 @@ export default function LogIn() {
             setBtnLoader(null)
         }
         else{
-            history.replace("/LauWebPage/admin")
+            history.replace("/admin")
            
         }
        
