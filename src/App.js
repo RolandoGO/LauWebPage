@@ -13,13 +13,14 @@ import PicturesContext from "./context/picturesContext";
 
 function App() {
   
+  
   return (
     <div className="App">
       <NavbarComponent/>
       <main className="myContainer">
         <PicturesContext>
         <Switch>
-            <Route exact path="/home" component={Home}/>
+            <Route exact path="/LauWebPage" component={Home}/>
             <Route exact  path="/contact" component={Contact}/>
             <Route exact path="/pictures" component={Pictures}/>
 
@@ -27,7 +28,7 @@ function App() {
             
 
             <AdminProtectRoute path="/admin" component={Admin}/>
-            <Redirect  to="/home"/>
+            <Redirect  to="/LauWebPage"/>
 
           </Switch>
         </PicturesContext>
