@@ -1,14 +1,12 @@
 .footer {
   width: 100%;
   height: 100px;
-  text-align: center;
-  padding: 10px;
-  margin-top: 20px;
+
+  margin-top: 50px;
 }
 .linksContainer {
   display: flex;
   flex-direction: column;
-  float: right;
 }
 .links {
   color: white;

@@ -1,12 +1,10 @@
 .home {
   width: 90%;
-  height: 400px;
+
   margin: auto;
 }
 .description {
   width: 250px;
-  border: 1px solid white;
-  margin: auto;
 }
 
 .myCarousel {
