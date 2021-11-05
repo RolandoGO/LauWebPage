@@ -20,6 +20,10 @@ export default function Home() {
 
     return (
         <div className="home">
+            <div className="description">
+                <h2>Description..</h2>
+                <p>On this page you can see the work of the artist Laura GO represented in a set of drawings of different styles. It is her work exposed to your eyes.</p>
+            </div>
            <Carousel className="myCarousel">
               {slideShowImg.map(ele=>{
                   return(

@@ -7,7 +7,8 @@
 }
 .linksContainer {
   display: flex;
-  justify-content: space-evenly;
+  flex-direction: column;
+  float: right;
 }
 .links {
   color: white;
