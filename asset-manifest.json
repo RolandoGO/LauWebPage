@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/LauWebPage/static/css/main.92f2e5bf.chunk.css",
-    "main.js": "/LauWebPage/static/js/main.06ee526e.chunk.js",
-    "main.js.map": "/LauWebPage/static/js/main.06ee526e.chunk.js.map",
+    "main.css": "/LauWebPage/static/css/main.9c56d14d.chunk.css",
+    "main.js": "/LauWebPage/static/js/main.98886078.chunk.js",
+    "main.js.map": "/LauWebPage/static/js/main.98886078.chunk.js.map",
     "runtime-main.js": "/LauWebPage/static/js/runtime-main.43dc9943.js",
     "runtime-main.js.map": "/LauWebPage/static/js/runtime-main.43dc9943.js.map",
     "static/css/2.d8cb5cde.chunk.css": "/LauWebPage/static/css/2.d8cb5cde.chunk.css",
-    "static/js/2.31fdcd40.chunk.js": "/LauWebPage/static/js/2.31fdcd40.chunk.js",
-    "static/js/2.31fdcd40.chunk.js.map": "/LauWebPage/static/js/2.31fdcd40.chunk.js.map",
+    "static/js/2.3456cd0a.chunk.js": "/LauWebPage/static/js/2.3456cd0a.chunk.js",
+    "static/js/2.3456cd0a.chunk.js.map": "/LauWebPage/static/js/2.3456cd0a.chunk.js.map",
     "index.html": "/LauWebPage/index.html",
     "static/css/2.d8cb5cde.chunk.css.map": "/LauWebPage/static/css/2.d8cb5cde.chunk.css.map",
-    "static/css/main.92f2e5bf.chunk.css.map": "/LauWebPage/static/css/main.92f2e5bf.chunk.css.map",
-    "static/js/2.31fdcd40.chunk.js.LICENSE.txt": "/LauWebPage/static/js/2.31fdcd40.chunk.js.LICENSE.txt"
+    "static/css/main.9c56d14d.chunk.css.map": "/LauWebPage/static/css/main.9c56d14d.chunk.css.map",
+    "static/js/2.3456cd0a.chunk.js.LICENSE.txt": "/LauWebPage/static/js/2.3456cd0a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.43dc9943.js",
     "static/css/2.d8cb5cde.chunk.css",
-    "static/js/2.31fdcd40.chunk.js",
-    "static/css/main.92f2e5bf.chunk.css",
-    "static/js/main.06ee526e.chunk.js"
+    "static/js/2.3456cd0a.chunk.js",
+    "static/css/main.9c56d14d.chunk.css",
+    "static/js/main.98886078.chunk.js"
   ]
 }
