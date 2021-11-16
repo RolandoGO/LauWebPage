@@ -4,11 +4,3 @@
 
   margin-top: 50px;
 }
-.linksContainer {
-  display: flex;
-  flex-direction: column;
-}
-.links {
-  color: white;
-  text-decoration: none;
-}
